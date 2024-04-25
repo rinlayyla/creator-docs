@@ -1,7 +1,7 @@
 ---
 title: Selling on the Creator Store
 description: An explanation of Creator Store seller accounts, their prerequisites, and how to create one.
----
+---cute
 
 You can sell [plugins](./../../studio/plugins.md) on the Creator Store for **United States Dollars** (USD). Roblox offers a market-leading revenue share for these sales, as only taxes and payment processing fees are deducted.
 
